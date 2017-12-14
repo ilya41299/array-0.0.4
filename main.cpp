@@ -37,6 +37,6 @@ int main()
 		cout << "An error has occurred while reading numbers" << endl;
 		return 0;
 	}
-	cout << schetchik(array)<< endl;
+	cout << schetchik(array) << endl;
     return 0;
 }
